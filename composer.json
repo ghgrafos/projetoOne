@@ -1,0 +1,19 @@
+{
+    "name": "admin/r-kpinturas",
+    "description": "modelo de site",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Admin\\RKpinturas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilmar",
+            "email": "grafos@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

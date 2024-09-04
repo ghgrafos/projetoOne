@@ -1,0 +1,15 @@
+li.btn {
+    background-color: red;
+    border: 2px solid white;
+}
+
+li.btn.active {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+li.btn:hover {
+    background-color: rgb(228, 5, 5);
+    border: 2px solid white;
+}
